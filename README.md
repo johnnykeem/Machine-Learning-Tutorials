@@ -1,5 +1,5 @@
 # Machine-Learning-Tutorials
-Python script for machine learning using ML packages
+Python script for machine learning using ML packages (Practice Tutorials)
 
 ---------------------------------------------------------------------------
 
